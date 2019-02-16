@@ -1,0 +1,27 @@
+Installation and Settimgs of Sublime
+======================================
+install sublime from "https://www.sublimetext.com/3"
+check build system fron tools>Build>language
+install package control to install third party packages tools>command pallete>install package control
+install package tools>command pallyet>install package
+change color scheme and theme from package (ctrl+P or tools>command pallete)>install package>and select from available color and theme
+preferences>settings>user setting>copy paste pref_user_settings
+preferences>package settings>anaconda>user settings>copy paste anaconda_settings
+install brackethighliter
+
+Restart sublime to see the effects
+
+SORTCUTS
+========
+ctrl+click on lines--to change many lines at once
+ctrl+/--to comment line
+ctrl+d --to find next
+to copy multiple lines in multiple location--ctrl+shift+left arrow after putting ctrl+click on end line
+alt+f3--to highlisht all with samename
+ctrl+shift+T--to open closed tab
+alt+tab+2--to split in 2 panels
+alt=+tab+3 to split in 3
+alt+shift+1 --to go normal
+ctrl+shift+up--to move a line up
+ctrl+B--to run a code
+ctrl+k then b while holding ctrl--to hide side baar or to get side baar
